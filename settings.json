@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.site",
-    "port": 25565,
+    "ip": "alphatitansservival.aternos.me",
+    "port": 64796,
     "version": "1.20.1",
     "try-creative": false
   },
